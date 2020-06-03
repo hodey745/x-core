@@ -9,4 +9,4 @@ pkg install mechanize
 pkg install ruby
 gem install lolcat
 chmod 777 hui.sh
-bash hui.sh
+sh hui.sh
